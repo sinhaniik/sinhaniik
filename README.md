@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinhaniik
+- 👋 Hi, I’m  Nikhil Sinha
 - 👀 I’m interested in development part like developing websites and be a part of amazing developer community.
 - 🌱 I’m currently learning website development 
 - 💞️ I’m looking to collaborate on ...
