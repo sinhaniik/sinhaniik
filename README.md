@@ -1,4 +1,4 @@
-![MasterHead](https://trignotech.in/wp-content/uploads/2021/10/banner-gif.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 
 <h1 align="center">Hi 👋, I'm Nikhil Sinha</h1>
 <h3 align="center">Working on being Full Stack Developer | Fascinated about cloud computing</h3>
