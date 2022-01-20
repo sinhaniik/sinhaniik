@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 
-<h1 align="center">Hi 👋, I'm Nikhil Sinha</h1>
+<h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's NIkhil Sinha here :) </h1>
 <h3 align="center">Working on being Full Stack Developer | Fascinated about cloud computing</h3>
 <img align = "right" alt = "coding" width = "400" src ="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
