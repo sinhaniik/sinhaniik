@@ -32,9 +32,3 @@
 </p>
   <p align='center'>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaniik&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sinhaniik/count.svg" />
-</p>
-
