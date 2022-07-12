@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sinhaniik" target="blank"><img src="https://img.shields.io/twitter/follow/sinhaniik?logo=twitter&style=for-the-badge" alt="sinhaniik" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with Java , Reactjs**
-
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/987160678892544476?hl=en&tab=jj](https://www.blogger.com/blog/posts/987160678892544476?hl=en&tab=jj)
+- 🌱 I’m currently learning **Reactjs along with TypeScript**
 
 - 📫 How to reach me **nikhilsinha198@gmail.com**
 
