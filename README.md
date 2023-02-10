@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
+![Nikhil_header](https://pbs.twimg.com/media/FontFrQaEAA2bDz?format=jpg&name=large)
 
 <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Nikhil here :) </h1>
 <h3 align="center">Working on being a Problem Solver | Trying to contribute in as much project as i can | React.js </h3>
