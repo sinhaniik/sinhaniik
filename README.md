@@ -5,10 +5,10 @@
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
-     i. Web Development: - HTML CSS, Markdown, JavaScript, Typescript, React.               
+     i. Web Development: - HTML, CSS, bootstrap , Markdown, JavaScript, Typescript, React.
      ii. Backend Development: -  Node.js .               
     iii. Shell Scripting: - Bash programming.    
-     iv. Databases: - MySQL.            
+     iv. Databases: - MySQL, MongoDB , Mongoose.            
       v. Languages: - Java, Python, javascript , (little bit of Go).             
      vi. Operating Systems: - Linux - Ubuntu (Shell Sripts), Windows.
 
